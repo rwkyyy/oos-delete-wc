@@ -1,5 +1,5 @@
 # Out of stock product delete for WooCommerce
-This plugin will run a daily cron that will delete products older than 120 days.
+This plugin will run a daily cron that will delete products that are out of stock and older than 120 days (since last update).
 
 # FAQ
 Q: Any known bugs?
